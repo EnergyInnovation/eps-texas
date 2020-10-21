@@ -1,0 +1,14 @@
+Components Energy Use[Building Type,electricity bf,Building Component]
+Transportation Sector Fuel Used[Vehicle Type,Cargo Type,Vehicle Technology,electricity tf]
+Total Electricity Demand
+Hydrogen Sector Electricity Demand
+Hydrogen Demand by Sector[Sectors]
+
+
+
+
+
+
+
+
+
