@@ -1,0 +1,13 @@
+Fraction of Goods Purchased (dimensionless),government,nonenergy industries,labor and consumers,foreign entities,electricity suppliers,coal suppliers,natural gas and petroleum suppliers,biomass and biofuel suppliers,other energy suppliers
+Cement and other carbonate use,0.02845934,0.83071719,0.11028441,0.00604230,0.00037845,0.00285844,0.02089479,0.00036509,0.00000000
+Natural gas and petroleum systems,0.139709525,0.210907402,0.24237809,0.153659004,0.03576182,0.004342164,0.212555188,0.000686808,0
+Iron and steel,0.00301196,0.84797118,0.00280458,0.12557539,0.00000741,0.00196475,0.01866472,0.00000000,0.00000000
+Chemicals,0.03155715,0.38108585,0.40428387,0.16320219,0.00133392,0.00210976,0.01462520,0.00180206,0.00000000
+Coal mining,0.092238008,0.563139376,0.002829531,0.163955885,0.09442482,0.050150505,0.033246198,1.56761E-05,0
+Waste management,0,0,0,0,0,0,0,0,0
+Agriculture,0.00785047,0.62752894,0.24621198,0.11671798,0.00000000,0.00011646,0.00006150,0.00151268,0.00000000
+Other industries,0.05192345,0.49174249,0.30978708,0.13962990,0.00026794,0.00143411,0.00494485,0.00027018,0.00000000
+,,,,,,,,,
+,,,,,,,,,
+"Values in yellow (for energy industries) are not used (as of EPS 1.5.0) but are calculated here for completeness, in case these values prove useful in the future.",,,,,,,,,
+"See the ""About"" tab for more details.",,,,,,,,,
