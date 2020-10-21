@@ -1,0 +1,13 @@
+Nonenergy Inputs as Share of Output (dimensionless),government,nonenergy industries,labor and consumers,foreign entities,electricity suppliers,coal suppliers,natural gas and petroleum suppliers,biomass and biofuel suppliers,other energy suppliers
+Cement and other carbonate use,0.012,0.312,0.369,0.054,0,0,0,0,0
+Natural gas and petroleum systems,0.033,0.360,0.155,0.176,0,0,0,0,0
+Iron and steel,0.011,0.521,0.234,0.098,0,0,0,0,0
+Chemicals,0.024,0.314,0.249,0.087,0,0,0,0,0
+Coal mining,0.051,0.180,0.338,0.029,0,0,0,0,0
+Waste management,0,0,0,0,0,0,0,0,0
+Agriculture,0,0.363,0.279,0.064,0,0,0,0,0
+Other industries,0.015,0.387,0.289,0.118,0,0,0,0,0
+,,,,,,,,,
+,,,,,,,,,
+"These rows are intended to sum to less than one, as they are inputs as a share of gross output (e.g. ignoring value added)",,,,,,,,,
+"These are shares of non-energy inputs, so we assign zeroes to all energy supplier cash flow entities.",,,,,,,,,
