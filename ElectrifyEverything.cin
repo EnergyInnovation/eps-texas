@@ -64,11 +64,12 @@ Fraction of New Bldg Components Shifted to Other Fuels[other component,rural res
 Fraction of New Bldg Components Shifted to Other Fuels[other component,commercial] = 1
 Fraction of Potential Additional CCS Achieved[electricity sector] = 1
 Fraction of Potential Additional CCS Achieved[industry sector] = 1
-Fraction of TDM Package Implemented[passenger] = 1
-Fraction of TDM Package Implemented[freight] = 1
 Minimum Required Hydrogen Vehicle Sales Percentage[passenger,aircraft] = 0.5
 Minimum Required Hydrogen Vehicle Sales Percentage[freight,aircraft] = 0.5
 Minimum Required Hydrogen Vehicle Sales Percentage[freight,ships] = 0.5
+Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.26
+Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,aircraft] = 0.3
+Percent of Travel Demand Shifted to Other Modes or Eliminated[freight,HDVs] = 0.22
 Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[cement and other carbonates] = 0.35
 Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[iron and steel] = 0.6
 Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[waste management] = 0.3
