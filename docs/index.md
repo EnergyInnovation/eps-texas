@@ -3,7 +3,7 @@ layout: page
 title:  "Texas Energy Policy Simulator"
 ---
 
-The Texas Energy Policy Simulator (EPS) is a free and open-source computer model created by [{partner name}]({partner url}).  It is adapted from software originally created by [Energy Innovation LLC](https://energyinnovation.org/).
+The Texas Energy Policy Simulator (EPS) is a free and open-source computer model created by [Energy Innovation LLC](https://energyinnovation.org/) and [The Webber Energy Group at The Univeristy of Texas at Austin](http://www.webberenergygroup.com/).  It is adapted from software originally created by [Energy Innovation LLC](https://energyinnovation.org/).
 
 ## Model Download
 
