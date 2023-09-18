@@ -1,0 +1,25 @@
+Unit: MW/($/MW),change in capacity
+hard coal,0.0794839383819172
+natural gas steam turbine,0.2224866307206152
+natural gas combined cycle,0.1398174739884783
+nuclear,0.05160589675090103
+hydro,0.008850279836104027
+onshore wind,0.254987635781827
+solar PV,0.10645511048669064
+solar thermal,0.0
+biomass,0.035629848540821324
+geothermal,0.0
+petroleum,0.0009224634323913022
+natural gas peaker,0.06739142920308382
+lignite,0.5094239648777534
+offshore wind,0.0
+crude oil,0.0
+heavy or residual fuel oil,0.0
+municipal solid waste,0.0
+hard coal w CCS,0.0
+natural gas combined cycle w CCS,0.0
+biomass w CCS,0.0
+lignite w CCS,0.0
+small modular reactor,0.0
+hydrogen combustion turbine,0.0
+hydrogen combined cycle,0.0
