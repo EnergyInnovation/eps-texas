@@ -16692,7 +16692,7 @@ CDCF Passenger Miles per Passenger Distance Output Unit=
 
 CDRDfRCP Clean Dispatchable Resource Demand for Reliability Curve Parameter A=
 	GET DIRECT CONSTANTS(
-	   'InputData/elec/CDRdfRCP/CDRdfRCP.csv',
+	   'InputData/elec/CDRDfRCP/CDRDfRCP.csv',
 	   ',',
 	   'B1*'
 	)
@@ -16701,7 +16701,7 @@ CDRDfRCP Clean Dispatchable Resource Demand for Reliability Curve Parameter A=
 
 CDRDfRCP Clean Dispatchable Resource Demand for Reliability Curve Parameter B=
 	GET DIRECT CONSTANTS(
-	   'InputData/elec/CDRdfRCP/CDRdfRCP.csv',
+	   'InputData/elec/CDRDfRCP/CDRDfRCP.csv',
 	   ',',
 	   'B2*'
 	)
@@ -16711,7 +16711,7 @@ CDRDfRCP Clean Dispatchable Resource Demand for Reliability Curve Parameter B=
 CDRDfRCP Required Share of Peak Demand from Clean Dispatchable Resources at 100 Percent CES\
 		=
 	GET DIRECT CONSTANTS(
-	   'InputData/elec/CDRDfRCP/CDRdfRCP.csv',
+	   'InputData/elec/CDRDfRCP/CDRDfRCP.csv',
 	   ',',
 	   'B3*'
 	)
