@@ -1,0 +1,25 @@
+Unit: dimensionless (share of capacity),Share of capacity that is cost of service
+hard coal,0.387
+natural gas steam turbine,0.549
+natural gas combined cycle,0.19
+nuclear,0.0
+hydro,0.987
+onshore wind,0.017
+solar PV,0.01
+solar thermal,0.0
+biomass,0.483
+geothermal,0.065
+petroleum,0.09
+natural gas peaker,0.444
+lignite,0.16
+offshore wind,0.012
+crude oil,0.09
+heavy or residual fuel oil,0.09
+municipal solid waste,0.035
+hard coal w CCS,0.387
+natural gas combined cycle w CCS,0.19
+biomass w CCS,0.483
+lignite w CCS,0.16
+small modular reactor,0.0
+hydrogen combustion turbine,0.444
+hydrogen combined cycle,0.19
